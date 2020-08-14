@@ -1,8 +1,8 @@
 
 
-![BACKGROUND](https://drive.google.com/file/d/1A7HYWe7awxao7z-KSBSHXSyKC14G55wO/view?usp=sharing)
+![BACKGROUND](https://drive.google.com/drive/u/0/my-drive)
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://drive.google.com/file/d/1A7HYWe7awxao7z-KSBSHXSyKC14G55wO/view?usp=sharing)
 
 # Jayanti Singh Welcomes you 
 
