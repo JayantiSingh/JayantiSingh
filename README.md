@@ -1,7 +1,8 @@
 
 
 ![BACKGROUND](https://drive.google.com/file/d/1A7HYWe7awxao7z-KSBSHXSyKC14G55wO/view?usp=sharing)
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 # Jayanti Singh Welcomes you 
 
@@ -13,7 +14,9 @@ The Full Stack Quantum Computation has a Discord server open to all people inter
 
 
 
-> 📫 You can reach her at [![Linkedin] (https://www.linkedin.com/in/jayanti-singh-ab6b65179/)]
+> 📫 You can reach her at 
+[![Linkedin](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[![Linkedin] (https://www.linkedin.com/in/jayanti-singh-ab6b65179/)]
 
 
 
