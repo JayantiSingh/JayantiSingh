@@ -13,7 +13,7 @@ The Full Stack Quantum Computation has a Discord server open to all people inter
 
 
 
-> 📫 You can reach her at [Linkedin] (https://www.linkedin.com/in/jayanti-singh-ab6b65179/)
+> 📫 You can reach her at [![Linkedin] (https://www.linkedin.com/in/jayanti-singh-ab6b65179/)]
 
 
 
