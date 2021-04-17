@@ -2,7 +2,8 @@
 </h1>
 
 <br>
-<!--
+<!doctype html>
+<html>
 <style>
 /* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-box {
@@ -53,7 +54,8 @@
 		<img align="center" src="Github Bioo.png" alt="Bioback" style="width:900px;height:400px">
     </div>
   </div>
-</div>-->
+</div>
+	</html>
 
 </br>
 
