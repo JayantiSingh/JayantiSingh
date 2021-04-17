@@ -4,67 +4,16 @@
 </h1>
 
 <br>
-<!--
-<!doctype html>
-<html>
-<style>
-/* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
-.flip-box {
-  background-color: transparent;
-  width: 900px;
-  height: 400px;
-  perspective: 1000px; /* Remove this if you don't want the 3D effect */
-}
-/* This container is needed to position the front and back side */
-.flip-box-inner {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  transition: transform 0.8s;
-  transform-style: preserve-3d;
-}
-/* Do an horizontal flip when you move the mouse over the flip box container */
-.flip-box:hover .flip-box-inner {
-  transform: rotateY(180deg);
-}
-/* Position the front and back side */
-.flip-box-front, .flip-box-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  -webkit-backface-visibility: hidden; /* Safari */
-  backface-visibility: hidden;
-}
-/* Style the front side (fallback if image is missing) */
-.flip-box-front {
-  background-color: #bbb;
-  color: black;
-}
-/* Style the back side */
-.flip-box-back {
-  background-color: dodgerblue;
-  color: black;
-  transform: rotateY(180deg);
-}
-</style>-->
-<link rel="stylesheet" type="text/css" href="flip.css" media="screen"/>
-<div class="flip-box">
-  <div class="flip-box-inner">
     <div class="flip-box-front">
       <img align="center" src="https://github.com/JayantiSingh/JayantiSingh/blob/master/Github%20Bio.PNG" alt="JayantiSingh_Bio"style="width:900px;height:400px">
-    </div>
-    <div class="flip-box-back">
-		<img align="center" src="https://github.com/JayantiSingh/JayantiSingh/blob/master/Github%20Bioo.PNG" alt="Bioback" style="width:900px;height:400px">
-    </div>
-  </div>
-</div>
-	
-
+    
 </br>
-
-
+<h4>
+I'm a web designer who is passionate about creating technology to elevate people, and building community. Some technologies I enjoy working with include CSS Animation, Interactive application desinging. Currently I’m studying Security Architecture and SIEM systems. I am working with Full Stack Quantum Computation, a community driven open source education resource website that aim to provide free resources to the universal quantum education community. My interest in Quantum Computing led me to launch Quantum Computing Knowledge Club, a community for students interested in Quantum Technology. </h4>
+<br>
 <h2> 👨🏻‍💻 About Me </h2>
+
+
 <h3>
 - 🔭 &nbsp; Exploring new technologies<br>
 - 💼 &nbsp; Front-end web developer <br>
