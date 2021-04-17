@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="flip.css" media="screen"/>
+
 
 <h1> Hi, I'm Jayanti. <img align="center" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25">
 </h1>
@@ -48,13 +48,14 @@
   transform: rotateY(180deg);
 }
 </style>-->
+<link rel="stylesheet" type="text/css" href="flip.css" media="screen"/>
 <div class="flip-box">
   <div class="flip-box-inner">
     <div class="flip-box-front">
-      <img align="center" src="Github Bio.png" alt="JayantiSingh_Bio"style="width:900px;height:400px">
+      <img align="center" src="https://github.com/JayantiSingh/JayantiSingh/blob/master/Github%20Bio.PNG" alt="JayantiSingh_Bio"style="width:900px;height:400px">
     </div>
     <div class="flip-box-back">
-		<img align="center" src="Github Bioo.png" alt="Bioback" style="width:900px;height:400px">
+		<img align="center" src="https://github.com/JayantiSingh/JayantiSingh/blob/master/Github%20Bioo.PNG" alt="Bioback" style="width:900px;height:400px">
     </div>
   </div>
 </div>
