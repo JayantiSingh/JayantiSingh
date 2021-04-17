@@ -53,11 +53,10 @@
 		<img align="center" src="Github Bioo.png" alt="Bioback" style="width:900px;height:400px">
     </div>
   </div>
-</div>
-
--->
+</div>-->
 
 </br>
+
 
 <h2> 👨🏻‍💻 About Me </h2>
 <h3>
