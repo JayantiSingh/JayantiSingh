@@ -4,9 +4,9 @@
 </h1>
 
 <br>
-    <div class="flip-box-front">
-      <img align="center" src="https://github.com/JayantiSingh/JayantiSingh/blob/master/Github%20Bio.PNG" alt="JayantiSingh_Bio"style="width:900px;height:400px">
-    
+<dev>
+<img align="center" src="https://github.com/JayantiSingh/JayantiSingh/blob/master/Github_Bio.PNG" alt="JayantiSingh_Bio"style="width:900px;height:400px">
+</dev>    
 </br>
 <h4>
 I'm a web designer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include CSS Animation, Interactive application desinging. Currently I’m studying Security Architecture and SIEM systems. My interest in Quantum Computing led me to launch <a href = "https://sites.google.com/view/rruquantumcomputingclub/home"> Quantum Computing Knowledge Club </a>, a community for students interested in Quantum Technology. </h4>
