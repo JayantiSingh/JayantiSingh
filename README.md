@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="flip.css" media="screen"/>
+
 <h1> Hi, I'm Jayanti. <img align="center" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25">
 </h1>
 
