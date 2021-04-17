@@ -1,4 +1,4 @@
-<html>
+
 <style>
 /* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-box {
@@ -47,15 +47,3 @@
 }
 </style>
 
-<div class="flip-box">
-  <div class="flip-box-inner">
-    <div class="flip-box-front">
-      <img src="https://github.com/JayantiSingh/JayantiSingh/blob/master/Github%20Bio.PNG" alt="Bio" style="width:900px;height:400px">
-    </div>
-    <div class="flip-box-back">
-		<img src="https://github.com/JayantiSingh/JayantiSingh/blob/master/Github%20Bioo.PNG" alt="Bio" style="width:900px;height:400px">
-    </div>
-  </div>
-</div>
-
-</html>
