@@ -9,16 +9,15 @@
     
 </br>
 <h4>
-I'm a web designer who is passionate about creating technology to elevate people, and building community. Some technologies I enjoy working with include CSS Animation, Interactive application desinging. Currently I’m studying Security Architecture and SIEM systems. My interest in Quantum Computing led me to launch <a href = "https://sites.google.com/view/rruquantumcomputingclub/home"> Quantum Computing Knowledge Club </a>, a community for students interested in Quantum Technology. </h4>
+I'm a web designer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include CSS Animation, Interactive application desinging. Currently I’m studying Security Architecture and SIEM systems. My interest in Quantum Computing led me to launch <a href = "https://sites.google.com/view/rruquantumcomputingclub/home"> Quantum Computing Knowledge Club </a>, a community for students interested in Quantum Technology. </h4>
 <br>
 <h2> 👨🏻‍💻 About Me </h2>
 
 
 <h3>
-- 🔭 &nbsp; Exploring new technologies<br>
-- 💼 &nbsp; Front-end web developer <br>
-- 🌱 &nbsp; Interested in Quantum enhanced technology and Security research <br>
-- ✍️ &nbsp; Science Writer & Quantum Learning Community Organizer</h3>
+- 🔭 &nbsp; Exploring new technologies <br>
+- 🌱 &nbsp; Quantum Learning Community Organizer <br>
+- ✍️ &nbsp; Science Writer </h3>
 
 <h2>🛠 Tech Stack</h2>
 <h3>
@@ -26,9 +25,7 @@ I'm a web designer who is passionate about creating technology to elevate people
 - 🌐 &nbsp; HTML5 | CSS3 | JAVASCRIPT | BOOTSTRAP <br>
 - 🛢  &nbsp; MySQL <br>
 - 🔧 &nbsp; INKSCAPE | TABLEAU | EDRAW
-
 </h3>
-
 <br>
 
 
