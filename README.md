@@ -47,7 +47,7 @@
   color: black;
   transform: rotateY(180deg);
 }
-</style>
+</style>-->
 <div class="flip-box">
   <div class="flip-box-inner">
     <div class="flip-box-front">
@@ -58,7 +58,7 @@
     </div>
   </div>
 </div>
-	</html>-->
+	
 
 </br>
 
