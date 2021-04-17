@@ -96,6 +96,6 @@
 &nbsp; <a href="mailto:jayanti012singh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="70" /></a>
 </p>
 
-💜 <img px="25" alt="jpg" src="https://icon-library.net/images/freelancer-icon/freelancer-icon-4.jpg" width="25"/>  From [JayantiSingh](https://github.com/JayantiSingh)
+💜  From [JayantiSingh](https://github.com/JayantiSingh)
 
 
