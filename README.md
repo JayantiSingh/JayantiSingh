@@ -9,7 +9,7 @@
     
 </br>
 <h4>
-I'm a web designer who is passionate about creating technology to elevate people, and building community. Some technologies I enjoy working with include CSS Animation, Interactive application desinging. Currently I’m studying Security Architecture and SIEM systems. I am working with Full Stack Quantum Computation, a community driven open source education resource website that aim to provide free resources to the universal quantum education community. My interest in Quantum Computing led me to launch Quantum Computing Knowledge Club, a community for students interested in Quantum Technology. </h4>
+I'm a web designer who is passionate about creating technology to elevate people, and building community. Some technologies I enjoy working with include CSS Animation, Interactive application desinging. Currently I’m studying Security Architecture and SIEM systems. My interest in Quantum Computing led me to launch <a href = "https://sites.google.com/view/rruquantumcomputingclub/home"> Quantum Computing Knowledge Club </a>, a community for students interested in Quantum Technology. </h4>
 <br>
 <h2> 👨🏻‍💻 About Me </h2>
 
