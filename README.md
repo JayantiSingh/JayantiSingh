@@ -17,7 +17,7 @@ I'm a web designer who is passionate about creating technology to elevate people
 
 
 <h3>
-- 🔭 &nbsp; Front-end Web Developer
+- 🔭 &nbsp; Front-end Web Developer <br>
 - 🌱 &nbsp; Quantum Learning Community Organizer <br>
 - ✍️ &nbsp; Science Writer </h3>
 
