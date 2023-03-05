@@ -11,7 +11,7 @@
 <h2>
 </br>
 
-I'm a web designer who is passionate about creating technology to elevate people, a budding security researcher interested in Quantum Enhanced technology. Currently I’m studying Security Architecture and SIEM systems. My interest in Quantum Computing led me to launch <a href = "https://sites.google.com/view/rruquantumcomputingclub/home"> Quantum Computing Knowledge Club </a>, a community for students interested in Quantum Technology. </h3>
+I'm a Computer Science Engineer specialized in Cyber Security, passionate about creating technology to elevate people. A budding security researcher interested in Quantum Enhanced technology. Currently I’m studying Security Architecture and SIEM systems. My interest in Quantum Computing led me to launch <a href = "https://sites.google.com/view/rruquantumcomputingclub/home"> Quantum Computing Knowledge Club </a>, a community for students interested in Quantum Technology. </h3>
 <br>
 <h2> 👨🏻‍💻 About Me </h2>
 
